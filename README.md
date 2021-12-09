@@ -25,6 +25,7 @@ About Me
  - 👨‍💻 I program in a variety of different languages.
  - 💼 I work as a CS Teacher Assistant.
  - 🏫 I am currently a high schooler.
+ - 🎵 I love listening to classical music.
  - ❤️ I love developing websites. Frontend + Backend.
 
 | | |
@@ -52,7 +53,7 @@ About Me
  
 | Programming Language | Tutorial Repository | Programming Language | Tutorial Repository |
 | --- | --- | --- | --- |
-| Python | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nicholas-Smirnov&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | Ruby | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | 
+| Python | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nicholas-Smirnov&repo=github-readme-stats&theme=dark)](https://github.com/Nicholas-Smirnov/Learn-Python) | Ruby | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | 
 | Java | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | JavaScript | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Intermediate Tutorials
