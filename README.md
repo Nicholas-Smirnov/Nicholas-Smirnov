@@ -11,5 +11,3 @@ My name is Nicholas Smirnov!
 ![NodeJS](https://img.shields.io/badge/-NodeJS-22BD00?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![NPM](https://img.shields.io/badge/-NPM-darkred?logo=npm&logoColor=white&style=for-the-badge)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-33BBFF?logo=react&logoColor=white&style=for-the-badge)
-
-![WhatIWorkWith](https://github.com/Nicholas-Smirnov/Nicholas-Smirnov/blob/images/MyCodingLanguages.png)
