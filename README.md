@@ -20,11 +20,17 @@
 ![C#](https://img.shields.io/badge/-C++-22BD00?logo=csharp&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 
+About Me
+
+ - 👨‍💻 I program in a variety of different languages.
+ - 💼 I work as a CS Teacher Assistant.
+ - 🏫 I am currently a high schooler.
+ - ❤️ I love developing websites. Frontend + Backend.
 
 
 | | |
 | --- | ---|
-| ![My stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Smirnov&show_icons=true&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Smirnov&layout=compact&theme=dark&width=50)](https://github.com/Nicholas-Smirnov/github-readme-stats) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Smirnov&show_icons=true&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Smirnov&langs_count=3&theme=dark)](https://github.com/Nicholas-Smirnov/github-readme-stats) |
 
 Python:
 ```python
