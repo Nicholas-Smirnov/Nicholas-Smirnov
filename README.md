@@ -46,16 +46,3 @@ About Me
   
 </p>
 </details>
-
-<details><summary> 📚 Check out my Tutorials </summary>
-
-### Basic Tutorials
- 
-| Programming Language | Tutorial Repository | Programming Language | Tutorial Repository |
-| --- | --- | --- | --- |
-| Python | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nicholas-Smirnov&repo=Learn-Python&theme=dark)](https://github.com/Nicholas-Smirnov/Learn-Python) | Ruby | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | 
-| Java | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | JavaScript | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Intermediate Tutorials
- 
-</details>
