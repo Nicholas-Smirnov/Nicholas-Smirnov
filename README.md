@@ -28,9 +28,7 @@ About Me
  - 🎵 I love listening to classical music.
  - ❤️ I love developing websites. Frontend + Backend.
 
-| | |
-| --- | ---|
-| ![My stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Smirnov&show_icons=true&theme=dark) | [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Smirnov&langs_count=3&theme=dark)](https://github.com/Nicholas-Smirnov/github-readme-stats) |
+![My stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Smirnov&show_icons=true&theme=dark)  [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Smirnov&langs_count=3&theme=dark)](https://github.com/Nicholas-Smirnov/github-readme-stats) 
 
 <details><summary>💡 What I Work With (Categorized)</summary>
 
