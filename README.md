@@ -1,46 +1,32 @@
-# 👋 Hello! I am Nicholas Smirnov.
+# 👋 Hey, I’m Nicholas Smirnov  
 
-![HTML5](https://img.shields.io/badge/-HTML5/HTML-FF8B09?logo=html5&logoColor=white&style=for-the-badge) 
-![CSS3](https://img.shields.io/badge/-CSS3/CSS-0923FF?logo=css3&logoColor=white&style=for-the-badge) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFA909?logo=JavaScript&logoColor=white&style=for-the-badge) 
-![TypeScript](https://img.shields.io/badge/-Typescript-blue?logo=Typescript&logoColor=white&style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/-NodeJS-22BD00?logo=nodedotjs&logoColor=white&style=for-the-badge) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-22BD00?logo=MongoDB&logoColor=white&style=for-the-badge) 
-![NPM](https://img.shields.io/badge/-NPM-darkred?logo=npm&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FF8B09?logo=Firebase&logoColor=white&style=for-the-badge) 
-![Python](https://img.shields.io/badge/-Python-darkblue?logo=Python&logoColor=white&style=for-the-badge)
-![Numpy](https://img.shields.io/badge/-Numpy-teal?logo=Numpy&logoColor=white&style=for-the-badge)
-![ReactJS](https://img.shields.io/badge/-ReactJs-33BBFF?logo=react&logoColor=white&style=for-the-badge) 
-![VueJS](https://img.shields.io/badge/-VUE.JS-22BD00?logo=vuedotjs&logoColor=white&style=for-the-badge) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=Bootstrap&logoColor=white&style=for-the-badge) 
-![SASS](https://img.shields.io/badge/-Sass-E75480?logo=sass&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-red?logo=Java&logoColor=white&style=for-the-badge) 
-![Ruby](https://img.shields.io/badge/-Ruby-darkred?logo=Ruby&logoColor=white&style=for-the-badge)
-<!--
-![C#](https://img.shields.io/badge/-C++-22BD00?logo=csharp&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&logoColor=white&style=for-the-badge)
--->
-About Me
+🎓 CS + Math @ Stony Brook University  
+🔬 Researcher in optimization, machine learning, and algorithmic complexity  
+💡 I love solving problems rigorously (mathematically), coding them up, and testing them at scale.  
 
- - 👨‍💻 I program in a variety of different languages.
- - 💼 I work as a CS Teacher Assistant.
- - 🏫 I am currently a high schooler.
- - 🎵 I love listening to classical music.
- - ❤️ I love developing websites. Frontend + Backend.
+## 🚀 What I’m Passionate About  
+- **Optimization + Machine Learning:** I study how algorithms like SGD and Adam behave in high-dimensional, non-convex landscapes — and build PyTorch frameworks to test convergence at scale.  
+- **Algorithms + Theory:** I’m obsessed with challenging problems, from Boolean calculus to spectral methods, and I love practice questions that force me to dissect and rebuild ideas mathematically.  
+- **Systems + Engineering:** Whether it’s designing interpreters, building ML pipelines for 100GB+ datasets, or simulating orbital mechanics, I thrive where deep reasoning meets real implementation.  
+- **Cats + Data:** (Yes, really.) I’ve built pipelines extracting 20K+ cat vocalizations and trained age-classification models on 250K+ feline images.  
 
-![My stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Smirnov&show_icons=true&theme=dark)  [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Smirnov&langs_count=3&theme=dark)](https://github.com/Nicholas-Smirnov/github-readme-stats) 
+## 🛠️ Tech & Tools I Work With  
 
-<details><summary>💡 What I Work With (Categorized)</summary>
+- **Languages:** Python, Java, JavaScript/TypeScript, HTML, CSS, Ruby  
+- **ML/AI:** PyTorch, TensorFlow, scikit-learn, PANNs, YOLOv8  
+-  **Data Science:** Pandas, NumPy, Google Earth Engine, time-series modeling  
+- **Systems & Tools:** Node.js, MongoDB, Firebase, Git, OpenCV  
 
-### Categorized Languages
+## 🔬 Research & Experience  
+- **DIENS Lab @ Stony Brook (2024–):** Zeroth- and first-order optimization for ML; PyTorch frameworks for SGD/Adam; convex analysis meets deep learning.  
+- **UT Arlington (REU, 2025):** Built a 100GB+ ML pipeline for cat vocalization analysis with YOLO + PANNs; trained TensorFlow/PyTorch models on 250K+ feline images.  
+- **NASA CCRI (2023):** Climate change modeling with satellite imagery and ML (clustering, decision trees, random forests).  
+- **Teaching:** TA + instructor experience in CS, math, and even Roblox game dev.  
 
- 
-| Categories Type | List |
-| --- | --- |
-| FrontEnd Development | ![HTML5](https://img.shields.io/badge/-HTML5-FF8B09?logo=html5&logoColor=white&style=for-the-badge) ![HTML](https://img.shields.io/badge/-HTML-FF8B09?logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/-CSS3-0923FF?logo=css3&logoColor=white&style=for-the-badge) ![CSS](https://img.shields.io/badge/-CSS-0923FF?logo=css3&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/-JavaScript-FFA909?logo=JavaScript&logoColor=white&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/-Typescript-blue?logo=Typescript&logoColor=white&style=for-the-badge) |
-| BackEnd Development | ![NodeJS](https://img.shields.io/badge/-NodeJS-22BD00?logo=nodedotjs&logoColor=white&style=for-the-badge) ![NPM](https://img.shields.io/badge/-NPM-darkred?logo=npm&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/-Python-darkblue?logo=Python&logoColor=white&style=for-the-badge) |
-| Frameworks (and more...) | ![ReactJS](https://img.shields.io/badge/-ReactJs-33BBFF?logo=react&logoColor=white&style=for-the-badge) ![VueJS](https://img.shields.io/badge/-VUE.JS-22BD00?logo=vuedotjs&logoColor=white&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=Bootstrap&logoColor=white&style=for-the-badge) ![SASS](https://img.shields.io/badge/-Sass-E75480?logo=sass&logoColor=white&style=for-the-badge) |
-| Programming Languages | ![Java](https://img.shields.io/badge/-Java-red?logo=Java&logoColor=white&style=for-the-badge) ![Ruby](https://img.shields.io/badge/-Ruby-darkred?logo=Ruby&logoColor=white&style=for-the-badge) <!--![C#](https://img.shields.io/badge/-C++-22BD00?logo=csharp&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&logoColor=white&style=for-the-badge)-->
-  
-</p>
-</details>
+## 🧩 Selected Projects  
+- **BASM (Assembly Interpreter):** A lightweight assembly interpreter in Java + Python ([Repo](https://github.com/Nicholas-Smirnov/BASM)).  
+- **Universe Code:** Orbital mechanics simulator with live web visualization ([Demo](http://universecode1.web.app)).  
+- **Cat Age Prediction:** Deep learning models for feline age estimation from image + audio datasets.  
+
+## 🌍 Connect With Me  
+[LinkedIn](https://linkedin.com/in/nicholassmirnov)
